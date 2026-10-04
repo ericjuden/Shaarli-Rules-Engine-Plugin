@@ -1,0 +1,3 @@
+description="Automatically suggests tags for bookmarks based on configurable URL pattern rules."
+parameters="RULES_ENGINE_RULES"
+parameter.RULES_ENGINE_RULES="Rules separated by semicolons (;). Format: pattern|tag1,tag2; Example: github.com/*|github,code; *.youtube.com/*|video"
